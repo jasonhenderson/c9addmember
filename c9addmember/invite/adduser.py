@@ -3,7 +3,7 @@
 
 # Imports
 import urllib.request, os, sys
-from cookielib import CookieJar
+from http.cookielib import CookieJar
 
 USER_AGENT = "/kinoshitajona/c9community/add_users/script/v0.0.4"
 
